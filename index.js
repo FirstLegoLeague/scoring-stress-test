@@ -10,7 +10,7 @@ const CREATE_SCORE_ROUTE = '/scores/create'
 
 const STAGE = 'ranking'
 
-/************* - Please change only inside these box - *************/
+/************* - Please change only inside this box - **************/
 /*******************************************************************/
 /**/                                                             /**/
 /**/         // Change the round number here                     /**/

@@ -8,7 +8,7 @@ To use this:
  3. Modify the setting in `index.js` file
  
  ```
-/************* - Please change only inside these box - *************/
+/************* - Please change only inside this box - **************/
 /*******************************************************************/
 /**/                                                             /**/
 /**/         // Change the round number here                     /**/
