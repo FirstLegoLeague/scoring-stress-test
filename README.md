@@ -23,7 +23,9 @@ To use this:
 /*******************************************************************/
  ```
  
- use `node index.js` to run the code.
+ After that:
+ 1. Run the TMS App 
+ 2. use `node index.js` to run the code.
  
  
  #### Notice! you will need to run this code for **each** round you want to add
