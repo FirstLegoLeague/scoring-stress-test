@@ -14,13 +14,13 @@ const STAGE = 'ranking'
 /*******************************************************************/
 /**/                                                             /**/
 /**/         // Change the round number here                     /**/
-/**/         const ROUND = 1                                     /**/
+/**/         const ROUND = 1                                 /**/
 /**/                                                             /**/
 /**/         // Change the amount of seconds between scores      /**/
-/**/         const TIME_BETWEEN_SCORES = 10                      /**/
+/**/         const TIME_BETWEEN_SCORES = 1                      /**/
 /**/                                                             /**/
 /**/         // Amount of 'Scorekeepers'                         /**/
-/**/         const AMOUNT_OF_SKS = 2                             /**/
+/**/         const AMOUNT_OF_SKS = 2                    /**/
 /**/                                                             /**/
 /*******************************************************************/
 
